@@ -1,0 +1,5 @@
+{"id":"E1","trial":"T1","room":"main","assigned_part":4,"actual_part":5,"window":[5,8],"arm":"slow","independent":[5,6]}
+{"id":"E2","trial":"T1","room":"er","assigned_part":4,"actual_part":7,"window":[5,8],"arm":"standard","independent":[5,6]}
+{"id":"E3","trial":"T1","room":"pt1","assigned_part":4,"actual_part":null,"window":[5,8],"arm":"standard","independent":[5,6,7,8]}
+{"id":"E4","trial":"T2","room":"mix","assigned_part":8,"actual_part":null,"window":[8,9],"arm":"slow","independent":[8,9]}
+{"id":"E5","trial":"T2","room":"pt2","assigned_part":8,"actual_part":null,"window":[8,9],"arm":"standard","independent":[8,9]}

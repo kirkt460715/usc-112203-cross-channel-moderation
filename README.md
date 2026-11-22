@@ -13,6 +13,9 @@ records 保存可离线使用的合成业务记录。每行一个 UTF-8 JSON 对
 | reviews.jsonl | 申诉可以撤销对具体内容的标签，未审阅没有正式结论。 |
 | shifts.jsonl | 值班员服务语种和承诺。基础最低在岗以房间语言为单位。 |
 | policies.jsonl | 认领的干预窗口有实际起止，交接时保持房间最低要求。 |
+| comparison_windows.jsonl | 名单分配于 assigned_part，跨房共用实际从 actual_part 开始。独立观测按房群与时段保留。 |
+| joint_actions.jsonl | 对照保留约定与联合干预生效范围。approved=false 代表候选；修改对照约定须确认。 |
+| effect_policy.jsonl | 保护的触发标准和证据范围由当班表登记。 |
 
 ## 核对资料
 

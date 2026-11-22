@@ -26,5 +26,17 @@
   "policies": {
     "rows": 2,
     "sha256": "929e43c2f931a172facbf62ebc68b285d273675de99482f24863691790bf2dbd"
+  },
+  "comparison_windows": {
+    "rows": 5,
+    "sha256": "7edc5aeb58c33116a4be810c4c466cdd2522313a1a76c28071bbc1a10281219c"
+  },
+  "joint_actions": {
+    "rows": 3,
+    "sha256": "66df1870beee14678b07f51d5586b96655947395176bb0e42f2ae84d0f28f821"
+  },
+  "effect_policy": {
+    "rows": 1,
+    "sha256": "bea81540e3ac0c91664b3946e2ff1e9f5c4b9dcf54471a9343eedb02e730dd51"
   }
 }

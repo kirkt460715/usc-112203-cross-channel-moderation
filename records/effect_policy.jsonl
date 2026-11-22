@@ -1,0 +1,1 @@
+{"id":"P1","minimum_coverage":0.12,"minimum_comparable_parts":2,"priority":["explicit_harm","spillover","monitoring"],"require_independent_control":true}
