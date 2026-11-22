@@ -1,0 +1,30 @@
+{
+  "rooms": {
+    "rows": 5,
+    "sha256": "bd07092f3e06b25a35384ce2afe5a6386fe46648fe3607abf55f718d047482af"
+  },
+  "posts": {
+    "rows": 240,
+    "sha256": "433459883ff2de715d5b3a4d29dcba80120ebb38790b077ececec3d367db0d58"
+  },
+  "visits": {
+    "rows": 920,
+    "sha256": "ba3d10f4809df50e310213d125cb9baf15b5f99918a1ac9cbac18851bed2df49"
+  },
+  "coverage": {
+    "rows": 40,
+    "sha256": "dfd80703063e6b8c55547de4b558b5965ad2d79bd490f2172f8e27e46d766aa5"
+  },
+  "reviews": {
+    "rows": 121,
+    "sha256": "5cf2ee1ddc2152ce4bcf4e2e5dca485c37668fd5eb881163029567c09a0885a2"
+  },
+  "shifts": {
+    "rows": 4,
+    "sha256": "3ddb32f3fce4fb9feffcf1c8a1f594bd15d3569b23c6d6ac3193923135ef7bee"
+  },
+  "policies": {
+    "rows": 2,
+    "sha256": "929e43c2f931a172facbf62ebc68b285d273675de99482f24863691790bf2dbd"
+  }
+}

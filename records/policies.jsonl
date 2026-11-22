@@ -1,0 +1,2 @@
+{"id":"B1","rooms":["main","er"],"starts":6,"ends":8,"minimum":1,"action":"slow"}
+{"id":"B2","rooms":["pt1","pt2"],"starts":7,"ends":9,"minimum":1,"action":"review"}

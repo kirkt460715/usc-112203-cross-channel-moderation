@@ -1,0 +1,4 @@
+{"id":"U1","languages":["es"],"parts":[6,7,8],"locked_room":"main","locked_until":8}
+{"id":"U2","languages":["es","pt"],"parts":[7,8,9],"locked_room":"mix","locked_until":8}
+{"id":"U3","languages":["pt"],"parts":[8,9],"locked_room":null,"locked_until":null}
+{"id":"U4","languages":["es","pt"],"parts":[7,8,9],"locked_room":"pt1","locked_until":9}
